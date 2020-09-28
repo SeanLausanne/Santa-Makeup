@@ -3,7 +3,6 @@ import cv2
 import dlib
 import time
 
-# a bit of change HERE
 
 predictor_path = "./models/shape_predictor_68_face_landmarks.dat"
 predictor = dlib.shape_predictor(predictor_path)
