@@ -132,3 +132,4 @@ dmypy.json
 # models and materials
 models/
 materials/
+!/outputs/
